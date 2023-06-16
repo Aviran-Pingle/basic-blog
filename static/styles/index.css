@@ -1,0 +1,32 @@
+.post {
+    background-color: #FFF;
+    border: 1px solid #DDD;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.post h2 {
+    margin-top: 0;
+}
+
+.post p {
+    margin: 10px 0;
+}
+
+.buttons {
+    display: flex;
+    justify-content: end;
+}
+
+.del-btn {
+    background-color: #FF2400;
+}
+
+.update-btn {
+    background-color: #0F52BA;
+}
+
+button {
+    margin: 5px;
+}
